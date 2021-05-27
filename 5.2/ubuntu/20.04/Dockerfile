@@ -1,4 +1,4 @@
-FROM ubuntu:20.04
+FROM ubuntu:groovy-20210416
 LABEL maintainer="Swift Infrastructure <swift-infrastructure@swift.org>"
 LABEL description="Docker Container for the Swift programming language"
 
